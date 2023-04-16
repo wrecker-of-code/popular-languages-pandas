@@ -49,4 +49,4 @@ Best learning practice is just using the documentation and trying to find out ev
 
 ***
 ## Winner: Python!
-![Results]{results.png}
+![Results](./results.png)
