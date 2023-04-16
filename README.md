@@ -45,6 +45,8 @@ code Programming_Languages_start.ipynb
 ```
 
 Best learning practice is just using the documentation and trying to find out everything on your own. The starting file from [Dr. Angela Yu](https://github.com/angelabauer) contains Markdown cells that contain the challenges to accomplish. Use the [Pandas](https://pandas.pydata.org/docs/) and [MatplotLib](https://matplotlib.org/stable/index.html) documentation to complete the tasks!
+***Have fun!***
 
 ***
-***Happy coding!***
+## Winner: Python!
+![Results]{results.png}
